@@ -1,1 +1,1 @@
-hello this is the forst git file
+thsi is my first git project
